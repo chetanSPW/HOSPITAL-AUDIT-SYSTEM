@@ -1,0 +1,4 @@
+Hospital type : Enum to be created
+Date: LocalDate to be used
+User: role to be added
+Service: Only interface
